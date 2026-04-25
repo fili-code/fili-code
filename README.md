@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Antonio / anton-dev ✨ </h1> 
+<h1 align="center">Hi 👋  I am Filiberto / fili-code ✨ </h1> 
 
 <p align="center">
   <a href="https://www.youtube.com/@uveantonio4094/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Anton-dev3306"  /></a>
@@ -10,10 +10,10 @@
 <!--Intro start-->
 
 <div align="center">
- 🎓 INGENIERO INFORMÁTICO
-💻 Desarrollador full-stack e IA developer
+ 🎓 Programador de sofwtare
+💻 Desarrollador back-end e IA developer
 
-📫 Contacto: **antonioestudiante15@gmail.com**  
+📫 Contacto: **filibertouluac@gmail.com**  
 </div>
 
 
