@@ -6,11 +6,11 @@
 <a href = "mailto:antonioestudiante15@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
   </p>
 <br>
-<h1 align=center>Sobre mi 😃</h1>
+<h1 align=center>about me 😃</h1>
 <!--Intro start-->
 
 <div align="center">
- 🎓 Programador de sofwtare
+ 🎓 Programador de software
 💻 Desarrollador back-end e IA developer
 
 📫 Contacto: **filibertouluac@gmail.com**  
@@ -41,7 +41,7 @@
   </div>
 <br>
 <div align=center>
-  <h1> Mis estadisticas </h1> 
+  <h1> My stats </h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
 <br>
   </div>
