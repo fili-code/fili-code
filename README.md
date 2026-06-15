@@ -10,8 +10,8 @@
 <!--Intro start-->
 
 <div align="center">
- 🎓 Programador de software
-💻 Desarrollador back-end e IA developer
+ 🎓 Software programmer
+💻 Back-end developer and AI developer
 
 📫 Contacto: **filibertouluac@gmail.com**  
 </div>
